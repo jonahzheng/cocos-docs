@@ -17,7 +17,7 @@ layer.bake();
 layer.unbake();
 ```
 
-详细信息请查看[Bake功能使用说明](../../../v3.0/bake-layer/zh.md)。
+详细信息请查看[Bake功能使用说明](../../../v3/bake-layer/zh.md)。
 
 ## 2. 对象缓冲池：`cc.pool`
 
